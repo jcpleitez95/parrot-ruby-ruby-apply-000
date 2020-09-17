@@ -1,2 +1,3 @@
-def parrot (phrase = "Pretty Bird!")
+def parrot 
   puts "Squawk!"
+end
